@@ -1,10 +1,10 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:0EA5E9&height=140&section=header" width="100%" />
+<a href="https://christoforos.im"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:0EA5E9&height=140&section=header" width="100%" /></a>
 
 <div align="center">
 
 # Hey, I'm Christoforos 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=620&lines=Founder+of+AIGENTA;Musician+turned+AI+builder;I+build+AI+that+listens+and+speaks;Idea+%E2%86%92+production+%E2%86%92+paying+customers" alt="Founder of AIGENTA" />
+<a href="https://christoforos.im"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=620&lines=Founder+of+AIGENTA;Musician+turned+AI+builder;I+build+AI+that+listens+and+speaks;Idea+%E2%86%92+production+%E2%86%92+paying+customers" alt="Founder of AIGENTA" /></a>
 
 <a href="https://aigenta.gr"><img src="https://img.shields.io/badge/Founder-AIGENTA-7C3AED?style=for-the-badge" /></a>
 <a href="https://lexisai.gr"><img src="https://img.shields.io/badge/Voice_AI-LEXIS_AI-0EA5E9?style=for-the-badge" /></a>
@@ -45,7 +45,7 @@ Voice AI · AI agents in production · telephony · building a company with AI �
 ### 📊 Activity
 
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=dataexplora&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub streak" />
+<a href="https://github.com/dataexplora?tab=repositories"><img src="https://streak-stats.demolab.com?user=dataexplora&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub streak" /></a>
 </div>
 
 ### 📫 Find me
@@ -58,4 +58,4 @@ Voice AI · AI agents in production · telephony · building a company with AI �
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:7C3AED&height=100&section=footer" width="100%" />
+<a href="https://aigenta.gr"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:7C3AED&height=100&section=footer" width="100%" /></a>
